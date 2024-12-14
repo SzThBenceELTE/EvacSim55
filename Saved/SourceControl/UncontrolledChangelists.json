@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/Levels/Map_MainMenu.umap",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/UI/BPUI_MainMenu.uasset",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/UI/Images/home-fire.uasset",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/UI/WBP_MainMenu.uasset",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/Levels/Map_EditingMap.umap",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/UI/WBP_HUDWidget.uasset",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/Blueprints/Elements/BP_Door.uasset",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/Blueprints/GameModes/BP_EditingGameMode.uasset",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/Blueprints/Elements/BP_Item.uasset",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/Blueprints/Elements/BP_PersonSpawn.uasset",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/Blueprints/Elements/BP_Room.uasset",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/szthb/OneDrive/Dokumentumok/Unreal Projects/EvacSim55/Content/UI/Images/Crosshair-PNG-Picture.uasset"
+			]
+		}
+	]
+}
